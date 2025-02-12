@@ -1,6 +1,7 @@
 Hello, My name is Ben Zhao!
 
-👋 I was a 2023 summer SWE intern @Oracle on the OCI team. 
+👋 I was a 2023 and 2024 summer SWE intern @Oracle on the OCI team. 
+   I am open to recruitment for new grade roles in Greater MSP or remote. 
 
 🎓 I am also a CS and Math major at Carleton College. 
 
