@@ -1,9 +1,8 @@
 Hello, My name is Ben Zhao!
 
-👋 I was a 2023 and 2024 summer SWE intern @Oracle on the OCI team. 
-   I am open to recruitment for new grad roles in Greater MSP or remote. 
+👋 I am a Software Engineer at Oracle Cloud Infrastructure. I work on within the Compute Organization on Oracle's virtual machine instances. 
 
-🎓 I am also a CS and Math major at Carleton College. 
+🎓 I am a 2025 graduate of Carleton College with a BA in CS, concentration in mathematics and finance. 
 
 🏋️ I enjoy coding, lifting weights, and cooking in my free time.
 
