@@ -1,12 +1,12 @@
 Hello, My name is Ben Zhao!
 
-👋 I am a Software Engineer at Oracle Cloud Infrastructure. I work on within the Compute Organization on Oracle's virtual machine instances. 
+👋 I am a Software Engineer at Oracle Cloud Infrastructure. I work within the Compute Organization on Oracle's virtual machine instances. 
 
 🎓 I am a 2025 graduate of Carleton College with a BA in CS, concentration in mathematics and finance. 
 
 🏋️ I enjoy coding, lifting weights, and cooking in my free time.
 
-Feel free to contact me:
+Always open to connecting or if you have opportunities:
 
 Portfolio: https://zehoubenzhao.com/
 
