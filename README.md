@@ -8,7 +8,7 @@ I am interested in AI-assisted software engineering, developer tooling, distribu
 
 - **[Coding-Agent Evaluation Harness](https://github.com/bzhao-1/coding-agent-eval-harness)** — Deterministic, rubric-based evaluation for repository-repair tasks with isolated grader subprocesses, optional network-disabled Docker execution, weighted criteria, and reproducible result hashes.
 - **[RoleFit Platform](https://github.com/bzhao-1/rolefit-platform)** — Offline-first Python system for ATS feed ingestion, deterministic role scoring, SQLite-backed tracking, resume matching, DOCX export, a CLI, and a local browser dashboard.
-- **[CARLA Weather-Robust Semantic Segmentation](https://github.com/bzhao-1/carla-weather-segmentation)** — Carleton team capstone adapting an upstream MIT segmentation framework for 29-class cross-weather evaluation and mixed-weather fine-tuning in CARLA.
+- **[CARLA Weather-Robust Semantic Segmentation](https://github.com/bzhao-1/carla-weather-segmentation)** — Carleton undergraduate thesis/capstone adapting an upstream MIT segmentation framework for 29-class cross-weather evaluation and mixed-weather fine-tuning in CARLA.
 - **[Engineering Portfolio](https://github.com/bzhao-1/Portfolio-Website)** — React and TypeScript portfolio with project case studies, responsive layouts, build verification, and automated static deployment.
 
 ## Current focus
